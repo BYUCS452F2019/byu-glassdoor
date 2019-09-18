@@ -1,0 +1,10 @@
+I think this idea would be very useful and if it existed, I certainly would use it myself. 
+The main challenge I can see is growing quick enough to maintain a userbase--essentially, 
+all the first users would have to be contrubutors before the app has any value for them. 
+But that shouldn't be too big of a concern. I don't forsee many legal implications.
+
+I would like to be a part of this project because I want to work on something i'd like to use myself.
+
+I would be a good fit for this project because I have a wide network of BYU recent Alum that I could ask to contribute
+data to the application. I also have a deep understanding of both Angular and Firebase (the intended tech stack). I've
+spent a good deal of time in that stack and feel very comfortable with my ability to contribute and learn simultaneously.
