@@ -1,0 +1,3 @@
+I want to work on this project because it just sounds like a great idea. I like the idea of making it university agnostic, so as to serve a larger group of people. I think there are plenty of ways to get people to try this and and them people can really start getting value from it. I think the best part of this as opposed to just using glass door is you get to see data from people from your University and maybe even specifically your college.
+
+I would be good for this project because I have worked in many tech stacks and have a lot of experience with both SQL databases (Oracle and Postgres) and No-SQL (DynamoDB). Most of my experience is with back end development, but I am always up for a challenge.
