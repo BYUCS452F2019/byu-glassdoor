@@ -12,7 +12,7 @@
   - location_id: a reference to the state that the offer is for (fk to location)
   - notes: a text string of any notes added by the student
   
- - compensation: contains information on compensation
+- compensation: contains information on compensation
   - id: a unique identifier for a compensation (pk)
   - offer_id: the offer that this compensation applies to (fk to offer)
   - type_id: the type of compensation (fk to compensation_type)
