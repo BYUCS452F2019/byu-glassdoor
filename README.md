@@ -8,10 +8,10 @@ Every year a survey goes out to BYU CS students about internship or full-time of
 I'm looking for 1-3 others to join my team. This project can scale to include more features based on team-size
 
 ## SQL
-Open to suggestions
+MySQL through Azure
 
 ## No-SQL
-Experience with Firebase & MongoDB, but open to suggestions
+Azure Cosmos
 
 ## Business
 There are two options. We could make the implementation university agnostic and build an MVP this semester. Or we could make it BYU specific and see if we can turn upkeep over to BYU OIT or BYU CS after the semester finishes.
