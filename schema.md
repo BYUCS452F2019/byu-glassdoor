@@ -15,8 +15,8 @@
   
 - compensation: contains information on compensation
   - id:               a unique identifier for a compensation              (pk)
-  - offer_id:         the offer that this compensation applies to         (fk to offer)
-  - type_id:          the type of compensation                            (fk to compensation_type)
+  - offer_id:         the offer that this compensation applies to         (fk -> offer)
+  - type_id:          the type of compensation                            (fk -> compensation_type)
   - amount:           the amount of this compensation
   - repeat_rate:      the repeat rate of the compensation
   
